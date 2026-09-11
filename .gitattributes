@@ -1,3 +1,0 @@
-# The examples directory contains the project's actual source code,
-# not merely documentation.
-examples/** -linguist-documentation

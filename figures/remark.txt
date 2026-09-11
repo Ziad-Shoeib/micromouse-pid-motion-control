@@ -1,0 +1,1 @@
+By default when you re-run, the figures will be replaced in the same folder as they have the same name.

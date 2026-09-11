@@ -23,7 +23,7 @@ Session 1 covers the theory (open vs closed loop, what P, I and D each do, tunin
 ## Quick start
 
 ```bash
-git clone https://github.com/Ziad_Shoeib/micromouse-pid-motion-control.git
+git clone https://github.com/Ziad-Shoeib/micromouse-pid-motion-control.git
 cd micromouse-pid-motion-control
 pip install -r requirements.txt
 jupyter lab    

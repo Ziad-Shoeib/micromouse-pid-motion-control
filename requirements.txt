@@ -1,0 +1,8 @@
+numpy>=1.24
+matplotlib>=3.7
+pillow>=9.0
+jupyterlab>=4.0
+ipykernel>=6.0
+# optional
+ipywidgets>=8.0
+jupytext>=1.16
